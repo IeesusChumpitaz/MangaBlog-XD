@@ -18,18 +18,17 @@ body
     font-weight: 500;
     margin: 0;
     padding: 0.5em;
-}
-
-#cabecera #logo
-{
     width: 130px;
     height: 150px;
-    vertical-align: super;
-    margin: 0;
-    padding: 0.5em;
-    text-align: right;
 }
 
+#logo 
+{
+    margin: 1;
+    padding: 0.5em;
+    width: 1px;
+    height: 1px;
+}
 
 #cabecera #tagline
 {
