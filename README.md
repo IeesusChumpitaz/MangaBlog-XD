@@ -25,3 +25,5 @@
 - De preferencia en español ...... -_- (**Hasta que tengamos un colaborador que lo logre traducir**).
 
 - Usa criticas contructivas y con respeto con la comunidad.
+
+### End ----------------------- [![logo2](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")[![logo2](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")
