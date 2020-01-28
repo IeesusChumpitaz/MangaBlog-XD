@@ -26,4 +26,4 @@
 
 - Usa criticas contructivas y con respeto con la comunidad.
 
-### End ----------------------- [![logo2](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")[![logo2](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")
+### End _________________________________________________________[![logo2](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")[![logo2](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")[![logo2](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")](https://i.pinimg.com/originals/a9/e4/6a/a9e46acabd68191c7491f28ca830a867.png "logo2")  __
